@@ -22,7 +22,7 @@ www.tarafriedrich.com
 - Fabric Genomics \| Clinical Data Scientist \| 2019 - 2022
 - UCSF \| Staff Bioinformatician \| 2018 - 2019
 
-### Résumé and CV
+### Resume and CV
 
 - [View CV as PDF](https://github.com/staracode/staracode.github.io/blob/main/assets/cv.pdf)
 
