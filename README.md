@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **staracode/staracode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Tara Friedrich 
+
+### Experience
+
+- Natera \| Data Scientist and Engineer \| 2022 - 2024
+- Fabric Genomics \| Clinical Data Scientist \| 2019 - 2022
+- UCSF \| Staff Bioinformatician \| 2018 - 2019
+
+### Résumé and CV
+
+- [View CV as PDF](https://github.com/staracode/staracode.github.io/blob/main/assets/cv.pdf)
+
+### Education
+
+- PhD in Bioinformatics \| University of California, San Francisco
+- B.S. in Biochemistry \| University of California, Los Angeles
+
+
+
