@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Tara Friedrich 
+With each dawn, a new frontier awaits
 www.tarafriedrich.com
 
 ### Experience
