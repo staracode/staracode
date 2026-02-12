@@ -19,7 +19,7 @@ With each dawn, a new frontier awaits
 www.tarafriedrich.com
 
 ### Experience
-
+- New Frontiers \| Bioinformatics Engineer \| 2025 - Present
 - Natera \| Data Scientist and Engineer \| 2022 - 2024
 - Fabric Genomics \| Clinical Data Scientist \| 2019 - 2022
 - UCSF \| Staff Bioinformatician \| 2018 - 2019
